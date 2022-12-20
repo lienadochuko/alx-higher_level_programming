@@ -1,8 +1,8 @@
-#!/user/bin/python3
+#!/usr/bin/python3
 """Define a class Square."""
 
 class Square:
-    """Defines a square"""
+    """Defines a square."""
 
     def __init__(self, size):
         """Initialize a new Square.
