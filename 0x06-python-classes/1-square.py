@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-"""Define a class Square."""
+"""Define a class square."""
+
 
 class Square:
     """Defines a square."""
@@ -8,7 +9,6 @@ class Square:
         """Initialize a new Square.
 
         Args:
-            size (int): The size of the new square.
+            size (int): size of the new square.
         """
         self.__size = size
-
