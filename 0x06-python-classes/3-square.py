@@ -1,4 +1,4 @@
-#!/user/bin/python3
+#!/usr/bin/python3
 """Define a class square."""
 
 
@@ -21,4 +21,3 @@ class Square:
         """Return the current square area."""
         x=self.__size * self.__size
         return (x)
-        
